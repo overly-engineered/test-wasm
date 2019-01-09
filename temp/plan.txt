@@ -1,0 +1,13 @@
+text field
+submit button
+sends name of file
+sends data as text
+node server
+express
+api call to node
+node creates .c file
+node runs https://stackoverflow.com/questions/20643470/execute-a-command-line-binary-with-node-js
+to run the command "emcc -o hello2.html hello2.c -O3 -s WASM=1 --shell-file template/shell_minimal.html"
+on success node updates db? or static file for now.
+web browser loads file which has available c names in it.
+selecting c file to load, server returns appropriate js file.

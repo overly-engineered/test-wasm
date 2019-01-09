@@ -1,0 +1,12 @@
+{
+  "name": "wasm",
+  "version": "0.0.1",
+  "description": "An application which will send c code from the front end to the back end where it is compiled via web assembly then saved in mongodb and retrieved and executed in the front\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J.Pettman",
+  "license": "ISC",
+  "dependencies": {}
+}
