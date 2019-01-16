@@ -8,5 +8,8 @@
   },
   "author": "J.Pettman",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^4.1.0"
+  }
 }
